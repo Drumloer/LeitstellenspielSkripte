@@ -1,1 +1,1 @@
-# Skript zum Darstellen der verdienenden Credits anhand der derzeitigen Einsatzliste
+## Skript zum Darstellen der verdienenden Credits anhand der derzeitigen Einsatzliste
