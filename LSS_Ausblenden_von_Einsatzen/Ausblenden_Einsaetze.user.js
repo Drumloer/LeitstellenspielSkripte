@@ -5,8 +5,8 @@
 // @author       FenodsLSS bearbietet durch Drumloer
 // @match        https://www.leitstellenspiel.de/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_Ausblenden_von_Einsatzen/Ausblenden_Einsaetze.user.js
+// @downloadURL  https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_Ausblenden_von_Einsatzen/Ausblenden_Einsaetze.user.js
 // ==/UserScript==
 
 (function() {
