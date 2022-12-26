@@ -1,4 +1,4 @@
-## Skript zum Ausblenden von angefahrehnen Verbandseinsätzen
+## Skript zum Ausblenden von angefahrenen Verbandseinsätzen
 
 Original von FendosLSS
 
