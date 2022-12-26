@@ -4,4 +4,4 @@ Original von FendosLSS
 
 Änderungen: 
   - Kollision mit anderen Skripten behoben
-    - Installierbarkeit in Tampermonkey
+  - Installierbarkeit in Tampermonkey
