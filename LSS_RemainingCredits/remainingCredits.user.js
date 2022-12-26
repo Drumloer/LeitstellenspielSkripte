@@ -5,6 +5,7 @@
 // @description  Berechnet zu verdienende Credits der derzeitigen Einsatzliste
 // @author       Lennard[TFD] bearbeitet durch Drumloer
 // @match        https://www.leitstellenspiel.de/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @updateURL    https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RemainingCredits/remainingCredits.user.js
 // @downloadURL  https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RemainingCredits/remainingCredits.user.js
 // ==/UserScript==
