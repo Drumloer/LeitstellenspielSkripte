@@ -3,5 +3,5 @@
 Original von https://https://github.com/LennardTFD
 
 Änderungen:
-  -Kollision mit anderen Skripten behoben
-  -Installierbarkeit in Tampermonkey
+  - Kollision mit anderen Skripten behoben
+  - Installierbarkeit in Tampermonkey
