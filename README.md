@@ -1,2 +1,2 @@
 # LeitstellenspielSkripte
-Skripte zum eweitern des Leistestellenspiels
+Skripte zum Erweitern des Leistestellenspiels
