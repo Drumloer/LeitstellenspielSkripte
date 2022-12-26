@@ -5,8 +5,8 @@
 // @author       Drumloer, auf Basis von "Zeige NA Wahrscheinlichkeit" von Tuteplays
 // @match        https://www.leitstellenspiel.de/missions/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
-// @updateURL    https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RTH_Wahrscheinlichkeit/ZeigeRTHWkt.user.js
-// @downloadURL  https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RTH_Wahrscheinlichkeit/ZeigeRTHWkt.user.js
+// @updateURL    https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RTH_Wahrscheinlichkeit/Zeige_RTH_Wkt.user.js
+// @downloadURL  https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RTH_Wahrscheinlichkeit/Zeige_RTH_Wkt.user.js
 // ==/UserScript==
 
 (function() {
