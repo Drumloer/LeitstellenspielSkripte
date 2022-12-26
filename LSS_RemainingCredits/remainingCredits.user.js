@@ -1,12 +1,10 @@
 // ==UserScript==
 // @name         Remaining Credits
 // @namespace    https://leitstellenspiel.de
-// @version      1.23
+// @version      1.01
 // @description  Berechnet zu verdienende Credits der derzeitigen Einsatzliste
 // @author       Lennard[TFD] bearbeitet durch Drumloer
 // @match        https://www.leitstellenspiel.de/
-// @match        https://www.missionchief.com/
-// @match        https://www.meldkamerspel.com/
 // @updateURL    https://github.com/Drumloer/LeitstellenspielSkripte/master/LSS_RemainingCredits/remainingCredits.js
 // @downloadURL  https://github.com/Drumloer/LeitstellenspielSkripte/master/LSS_RemainingCredits/remainingCredits.js
 // ==/UserScript==
