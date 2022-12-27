@@ -8,3 +8,5 @@ Skripte zum Erweitern des Leistestellenspiels
  - Anzeigen der RTH-Wahrscheinlichkeit: [Installieren](https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RTH_Wahrscheinlichkeit/Zeige_RTH_Wkt.user.js)
 
  - Anzeigen der noch zu Verdienenden Credits: [Installieren](https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RemainingCredits/remainingCredits.user.js)
+ 
+ - Anwerben von neuen Personal [Installieren](https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_Automatisches_Personal_anwerben/AutoHire.user.js)
