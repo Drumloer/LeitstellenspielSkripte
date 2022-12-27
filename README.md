@@ -9,4 +9,4 @@ Skripte zum Erweitern des Leistestellenspiels
 
  - Anzeigen der noch zu Verdienenden Credits: [Installieren](https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_RemainingCredits/remainingCredits.user.js)
  
- - Anwerben von neuen Personal [Installieren](https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_Automatisches_Personal_anwerben/AutoHire.user.js)
+ - Anwerben von neuem Personal: [Installieren](https://github.com/Drumloer/LeitstellenspielSkripte/raw/main/LSS_Automatisches_Personal_anwerben/AutoHire.user.js)
