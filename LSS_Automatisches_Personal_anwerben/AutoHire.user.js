@@ -52,7 +52,7 @@
 
     function close() {
         console.log(window.location.href);
-        if (window.location.href.startsWith('https://www.leitstellenspiel.de/buildings/')) {
+        if (window.location.href.startsWith('https://www.leitstellenspiel.de/buildings/') && window.location.href.endsWith('/hire')) {
             setTimeout(
                 function nothing() {
                 window.close();
